@@ -10,6 +10,8 @@ The entry line (98 characters):
 
 > Fixed: sleep now saves correctly; users no longer wake up at 3 AM with 47 tabs open in their head.
 
+Why it lands: sleep is treated like a software feature with a save bug, and the symptom — 47 tabs open in your head at 3 AM — is a browser every reader recognizes. The fix is technical, the bug is human.
+
 ## Run it
 
 ```sh
